@@ -1,0 +1,23 @@
+.footer {
+  background-color: #0a2850;
+  color: white;
+  box-sizing: border-box;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+}
+
+.footer__logo {
+  height: 39px;
+  width: 105px;
+}
+
+.footer__social {
+}
